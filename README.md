@@ -1,2 +1,5 @@
 # hello-world
-My Public Repo
+
+Greetings Everyone!
+
+I'm new here at GitHub.
